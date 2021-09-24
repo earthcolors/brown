@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 大地的颜色-当下
 
 You can use the [editor on GitHub](https://github.com/earthcolors/brown/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
